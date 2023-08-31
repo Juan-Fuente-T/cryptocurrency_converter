@@ -266,7 +266,7 @@ al pulsar el botón calcular obtendrá la
             self.pantalla.insert(tk.END, valor_defecto)
 
     
-if __name__ == "__main__": #se puede usar como componente o por separado
+if __name__ == "__main__": #se puede usar como componente y tambien por separado
     ventana = VisualMoney()
     ventana.mainloop()
 
