@@ -32,7 +32,7 @@ Esto abrirá una ventana de la aplicación.
   - Haz clic en el botón "Convertir" para obtener el resultado de la conversión.
 
 ## Licencia
-Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia en el archivo LICENSE.
+Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia aqui https://es.wikipedia.org/wiki/Licencia_MIT.
 
 ## Contacto
 Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web ' https://juanfuente.ovh '
