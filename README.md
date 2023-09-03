@@ -1,6 +1,6 @@
 # conversor_divisas_GUI-interfaz-grafica
 
-##Conversor de Divisas
+## Conversor de Divisas
 Esta es una aplicación de escritorio que permite seleccionar las dos monedas que deseas convertir y te mostrará la tasa de cambio real para una unidad o la cantidad que desees introducir. 
 Esta desarrollada con python y la librería TKinter.
 Los datos para los valores de cambio son tomados en tiempo real a través de API
