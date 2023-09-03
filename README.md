@@ -10,9 +10,9 @@ Los datos para los valores de cambio son tomados en tiempo real a través de API
 
 
 ## Características
-'Interfaz gráfica fácil de usar.'
-'Conversión de divisas en tiempo real.'
-'Soporte para todas las monedas.'
+ - Interfaz gráfica fácil de usar.
+ - Conversión de divisas en tiempo real.
+ - Soporte para todas las monedas.'
 
 ## Requisitos de instalación
 Antes de ejecutar el programa, asegúrate de tener instalado Python en tu sistema. Puedes hacerlo siguiendo estos pasos:
@@ -29,7 +29,7 @@ Esto abrirá una ventana de la aplicación.
 
   - Selecciona la moneda de origen y la moneda de destino desde los menús desplegables.
   - Ingresa la cantidad que deseas convertir en el campo de entrada.
-  - Haz clic en el botón "Convertir" para obtener el resultado de la conversión.
+  - Haz clic en el botón **Convertir** para obtener el resultado de la conversión.
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia aqui https://es.wikipedia.org/wiki/Licencia_MIT.
