@@ -5,6 +5,7 @@ Esta es una aplicación de escritorio que permite seleccionar las dos monedas qu
 Esta desarrollada con python y la librería TKinter.
 Los datos para los valores de cambio son tomados en tiempo real a través de API
 
+## Captura de pantalla
 ![msg-337637371-26305](https://github.com/Juan-Fuente-T/conversor_divisas_GUI-interfaz-grafica-/assets/127140423/4e622d98-63ec-4540-b781-320233b78634)
 
 
@@ -23,7 +24,7 @@ Ingresa al directorio del proyecto:
 Instala las dependencias necesarias ejecutando el siguiente comando:
    ### pip install -r requirements.txt
 Ejecuta el siguiente comando para iniciar la aplicación:
-   ### python conversor_divisas_v004_GUI.py (o adaptar al nombre del arcivo si es necesario)
+   ### python conversor_divisas_v004_GUI.py (o adaptar al nombre exacto del archivo si es necesario)
 Esto abrirá una ventana de la aplicación.
 
   - Selecciona la moneda de origen y la moneda de destino desde los menús desplegables.
@@ -34,6 +35,6 @@ Esto abrirá una ventana de la aplicación.
 Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia en el archivo LICENSE.
 
 ## Contacto
-Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web 'https://juanfuente.ovh'
+Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web ' https://juanfuente.ovh '
 
 # ¡Espero que disfrutes utilizando el conversor de divisas!
