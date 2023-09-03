@@ -22,9 +22,8 @@ Ingresa al directorio del proyecto:
    ### cd tu-proyecto
 Instala las dependencias necesarias ejecutando el siguiente comando:
    ### pip install -r requirements.txt
-Uso
 Ejecuta el siguiente comando para iniciar la aplicación:
-   ### python main.py
+   ### python conversor_divisas_v004_GUI.py (o adaptar al nombre del arcivo si es necesario)
 Esto abrirá una ventana de la aplicación.
 
   - Selecciona la moneda de origen y la moneda de destino desde los menús desplegables.
@@ -35,6 +34,6 @@ Esto abrirá una ventana de la aplicación.
 Este proyecto se distribuye bajo la licencia MIT. Puedes ver los detalles de la licencia en el archivo LICENSE.
 
 ## Contacto
-Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web https://juanfuente.ovh
+Si tienes alguna pregunta, sugerencia o comentario sobre este proyecto, no dudes en contactarme a través de los canales que tengo disponibles en mi web 'https://juanfuente.ovh'
 
 # ¡Espero que disfrutes utilizando el conversor de divisas!
