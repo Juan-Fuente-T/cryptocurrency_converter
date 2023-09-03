@@ -28,6 +28,7 @@ Ejecuta el siguiente comando para iniciar la aplicación:
 Esto abrirá una ventana de la aplicación.
 
   - Selecciona la moneda de origen y la moneda de destino desde los menús desplegables.
+  - Por defecto ofece la conversión para una unidad de moneda
   - Ingresa la cantidad que deseas convertir en el campo de entrada.
   - Haz clic en el botón **Convertir** para obtener el resultado de la conversión.
 
