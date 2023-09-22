@@ -1,0 +1,33 @@
+
+LICENCIA DE USO
+
+El software Conversor_divisas ("la Aplicación") es un programa de código abierto y se distribuye bajo los términos de la Licencia GPL. Al instalar, copiar o utilizar la Aplicación, usted acepta cumplir los términos y condiciones establecidos en dicha licencia.
+
+La Licencia GPL le otorga los siguientes derechos:
+
+a) Uso: Usted tiene derecho a utilizar la Aplicación para cualquier propósito, tanto personal como comercial, de acuerdo con los términos de la Licencia GPL.
+
+b) Distribución: Usted tiene derecho a distribuir la Aplicación, siempre y cuando lo haga de acuerdo con los términos de la Licencia 
+Por supuesto, aquí te proporciono la redacción actualizada a partir del punto 2 del EULA para una aplicación de código abierto:
+
+LICENCIA DE USO
+
+El software GPL ("la Aplicación") es un programa de código abierto y se distribuye bajo los términos de la Licencia GPL. Al instalar, copiar o utilizar la Aplicación, usted acepta cumplir los términos y condiciones establecidos en dicha licencia.
+
+La Licencia GPL le otorga los siguientes derechos:
+
+a) Uso: Usted tiene derecho a utilizar la Aplicación para cualquier propósito, tanto personal como comercial, de acuerdo con los términos de la Licencia GPL
+
+b) Distribución: Usted tiene derecho a distribuir la Aplicación, siempre y cuando lo haga de acuerdo con los términos de la Licencia GPL. Esto incluye la distribución del código fuente de la Aplicación, si así lo establece la licencia utilizada.
+
+c) Modificación: Usted tiene derecho a modificar el código fuente de la Aplicación de acuerdo con los términos de la Licencia GPL. Cualquier modificación realizada debe cumplir con los requisitos y restricciones establecidos en dicha licencia.
+
+d) Derechos adicionales: La Licencia GPL puede otorgarle derechos adicionales en relación con la Aplicación. Asegúrese de revisar y comprender los términos completos de dicha licencia antes de utilizar, distribuir o modificar la Aplicación.
+
+Para acceder a los términos completos de la Licencia GPL, consulte https://es.wikipedia.org/wiki/GNU_General_Public_License. Esto incluye la distribución del código fuente de la Aplicación, si así lo establece la licencia utilizada.
+
+c) Modificación: Usted tiene derecho a modificar el código fuente de la Aplicación de acuerdo con los términos de la Licencia GPL. Cualquier modificación realizada debe cumplir con los requisitos y restricciones establecidos en dicha licencia.
+
+d) Derechos adicionales: La Licencia GPL puede otorgarle derechos adicionales en relación con la Aplicación. Asegúrese de revisar y comprender los términos completos de dicha licencia antes de utilizar, distribuir o modificar la Aplicación.
+
+Para acceder a los términos completos de la Licencia GPL, consulte https://es.wikipedia.org/wiki/GNU_General_Public_License.

@@ -12,7 +12,21 @@ Los datos para los valores de cambio son tomados en tiempo real a través de API
 ## Características
  - Interfaz gráfica fácil de usar.
  - Conversión de divisas en tiempo real.
- - Soporte para todas las monedas.'
+ - Soporte para todas las monedas.
+
+ 
+## INSTRUCCIONES
+
+ - Elegir de los dos desplegables la moneda de origen, su moneda, y la divisa de destino, la modena de la cual desea obtener el cambio. 
+ - Se le mostrará por defecto el cambio para una unidad de su moneda. 
+ - Haga la conversión de la cantidad que usted desee simplemente siguiendo estos pasos:
+      - Haga clic dentro de la ventana cantidad
+      - Introduzca la cantidad que desee 
+      - Pulse el botón Convertir. 
+ - Repita la operación todas las veces que quiera. 
+
+#### Los valores para los cálculos son tomados en segundo plano por la aplicación mediante una llamada a https://exchangeratesapi.io. 
+
 
 ## Requisitos de instalación
 Antes de ejecutar el programa, asegúrate de tener instalado Python en tu sistema. Puedes hacerlo siguiendo estos pasos:

@@ -7,6 +7,9 @@ Esta aplicación de interfaz gráfica, multiplataforma (Windows, Linux, Mac), of
 Novedades de la version 1.0
 - Eliminacion de lista de divisas de prueba e implementacion de la llamada a la API para obtener valores de conversión en tiempo real
 - Se termina la documentacion
+- Se oculta la api key en el .env
+- Se añade manual y EULA
+
 
 Novedades de la versión 0.0.7
 - Se añade color a la opcion mostrada en el combobox despues de haber sido seleccionada

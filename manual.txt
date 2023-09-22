@@ -1,0 +1,10 @@
+
+Una vez instalado y después de abrir la aplicación debe elegir de los dos desplegables la moneda de origen, su moneda, y la divisa de destino, la modena de la cual desea obtener el cambio. 
+
+Los desplegables se abren una vez se pulsa sobre ellos y tienen tanto su código de tres letras, por ejemplo EUR, y el nombre completo.
+
+Una vez que haya seleccionado ambas, se le mostrará por defecto el cambio para una unidad de su moneda. 
+
+Puede hacer la conversión de la cantidad que usted desee simplemente haciendo clic dentro de la ventana cantidad, introduciendo la cantidad que desee y pulsando el botón Convertir. Puede repetir la operación todas las veces que quiera. 
+
+Los valores para los cálculos son tomados en tiempo real por la aplicación mediante una llamada a https://exchangeratesapi.io. 
