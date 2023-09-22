@@ -1,22 +1,36 @@
-﻿# *** CALCULADORA DE DIVISAS :: Version 0.1.1 ***
-# (Release rights under) 2023 Juan Fuente
+﻿# *** Conversion_divisas : Version 1.0 ***
+# Creative Commons 2023: Juan Fuente 2023
 
 """
-Esta aplicación multiplataforma (Windows, Linux, Mac) convierte una cantidad de una moneda en codigo ISO, por ejemplo EUR (euros), en el valor correspondiente en otra divisa, por ejemplo USD (dolares americanos), y opera mediante interfaz gráfica:
+Esta aplicación de interfaz gráfica, multiplataforma (Windows, Linux, Mac), ofrece la una funcionalidad de conversion de divisas con valores actualizados en tiempo real entre dos monedas seleccionadas.
 
+Novedades de la version 1.0
+- Eliminacion de lista de divisas de prueba e implementacion de la llamada a la API para obtener valores de conversión en tiempo real
+- Se termina la documentacion
 
-"""Novedades de la versión 0.1.1
-- Integración de un segundo calculo para mostrar al usuario el valor de una unidad de una divisa moneda respecto a su moneda.
-- Se añade un archivo .env en el que se guarda la clave de la API.
-"""
+Novedades de la versión 0.0.7
+- Se añade color a la opcion mostrada en el combobox despues de haber sido seleccionada
+- Se cambia el texto del botón a "Convertir"
+- Se añade el borrado del 1 por defecto al hacer click en la ventana de cantidad cuando el usuario quiere introducir su cantidad deseada
+- Se eliminan todas las líneas innecesarias
+- Se comienza a pulir la documentación
 
+Novedades de la versión 0.0.6
+- Se añade la funcionalidad de indicar en la ventana de cantidad el numero 1, para indicar claramente al usuario que la conversion por defecto es para una unidad
 
-"""Novedades de la versión 0.1.0
-- Integración de un calculo para mostrar al usuario el valor de una unidad de su moneda en la divisa a la que la desea cambiar
-- Integracion de un diccionario a disposicion del usario con los codigos ISO y su nombre ordenados alfabeticamente. 
-- Pulido de la documentcion
-"""
+Novedades de la versión 0.0.5
+- Se realizan ajustes
+- Se añade la funcionalidad de mostrar por defecto el valor de conversión para una unidad de moneda origen
 
-"""Novedades de la versión 0.0.5
-- Integración de la función prettify para montrar los numeros con puntos separando millares y millones y comas para separar los decimales
-"""
+Novedades de la versión 0.0.4
+- Se le añade color a toda la interfaz gráfica
+- Se convierte en una Clase
+
+Novedades de la versión 0.0.3
+- Se corrigen problemas con la interfaz
+- Se corrige texto de las etiquetas
+- Se añade etiqueta explicativa
+- Se introduce mensage de error si la moneda seleccionada no esta dentro de las disponibles
+
+Novedades de la versión 0.0.2
+- Se incorpora la interfaz gráfica al conversor de divisas alfanumérico
