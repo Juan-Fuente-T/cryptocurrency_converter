@@ -1,1 +1,7 @@
+#Claves
+
 .env
+
+#Archivos de desarrollo
+venv/
+pruebas/

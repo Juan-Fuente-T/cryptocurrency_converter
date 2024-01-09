@@ -1,0 +1,39 @@
+---------------------DATOS dentro del param TIKERS---------------------:
+-Base y Target: Estos campos indican las criptomonedas involucradas en el par. Por ejemplo, en el primer caso, "BTC" es la moneda base y "USDT" es la moneda objetivo.
+
+-Market: Proporciona información sobre la plataforma de intercambio donde se realiza la negociación. En el primer caso, es "BigONE".
+
+-Last: Este valor indica el precio más reciente al que se negoció el par.
+
+-Volume: Representa la cantidad total de la moneda base negociada en el mercado.
+
+-Converted Last: Muestra el último precio convertido a otras criptomonedas (BTC, ETH) y a USD.
+
+-Converted Volume: La cantidad total de la moneda base convertida a BTC, ETH y USD.
+
+-Trust Score: Un indicador de confianza en la integridad de los datos y la plataforma de intercambio. En este caso, se etiqueta como "green", lo que generalmente indica un nivel de confianza alto.
+
+-Bid-Ask Spread Percentage: Es el porcentaje de diferencia entre el precio de oferta y demanda. Un valor bajo indica una menor brecha entre las dos, lo que puede ser beneficioso.
+
+-Timestamp: La marca de tiempo indica cuándo se registraron los datos.
+
+-Last Traded At: La marca de tiempo de la última transacción.
+
+-Is Anomaly e Is Stale: Son indicadores de si los datos son anómalos o si están desactualizados.
+
+-Trade URL y Token Info URL: Enlaces a la página de comercio y a la información del token en la plataforma respectivamente.
+
+-Coin ID y Target Coin ID: Identificadores de las criptomonedas base y objetivo.
+
+----------------DENTRO DE MARKET_DATA-----------------
+'symbol': Este campo te da el símbolo de la criptomoneda. Por ejemplo, 'btc' para Bitcoin, 'eth' para Ethereum, etc. Puedes usar esto para identificar la criptomoneda.
+
+'current_price': Proporciona el precio actual de la criptomoneda en diversas monedas. Esto es esencial para mostrar a los usuarios el valor actual de la criptomoneda.
+
+'price_change_percentage_24h': Este campo te da el cambio porcentual en las últimas 24 horas. Es útil para mostrar la volatilidad reciente de la criptomoneda.
+
+'market_cap': Representa la capitalización de mercado de la criptomoneda. Puede ser útil para evaluar la importancia relativa de una criptomoneda en comparación con otras.
+
+'total_volume': Indica el volumen total de operaciones en las últimas 24 horas. Es importante para entender la liquidez del mercado.
+
+'high_24h' y 'low_24h': Muestran los precios más altos y más bajos en las últimas 24 horas. Pueden ser útiles para mostrar la variación extrema en el precio.
